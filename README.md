@@ -152,7 +152,7 @@ VSCode (not to be confused with Visual Studio), is a very simple IDE (translatio
 The following link will give steps on how to install VSCode:
 [Install VSCode](https://code.visualstudio.com/)
 
-# 4.0 - Install DBeaver
+# 5.0 - Install DBeaver
 
 DBeaver is a free database manager and browser. Using DBeaver can look at your data your programs are producing very quickly.
 
@@ -160,7 +160,7 @@ The following link will give steps on how to install DBeaver:
 
 [Install DBeaver](https://dbeaver.io/download/)
 
-# 5.0 - Install Postman
+# 6.0 - Install Postman
 
 Postman is an API testing tool. It helps us send requests and receive responses from our locally running server (and other servers on the web too!).
 
