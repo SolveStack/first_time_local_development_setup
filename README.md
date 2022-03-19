@@ -145,6 +145,12 @@ nvm use 14
 npm install -g yarn
 ```
 
+# 4.0 - Install Visual Studio Code (VSCode)
+
+VSCode (not to be confused with Visual Studio), is a very simple IDE (translation: editor) with powerful extensions that make stuff really easy. You open your code files and edit the documents.
+
+The following link will give steps on how to install VSCode:
+[Install VSCode](https://code.visualstudio.com/)
 
 # 4.0 - Install DBeaver
 
