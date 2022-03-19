@@ -2,6 +2,8 @@
 
 This is a README to get started with our community, and most development projects using Github, Python3, JavaScript and/or Docker. It also includes our standard tools we use to test our code effectively. Your tools are what make you go 10 times as fast as a developer, so don't skimp. You will understand your code and other people's code quicker.
 
+Oh boy. Get ready. You will install a lot of stuff. Fortunately you only have to do this once.
+
 # Community
 
 [Sign up in the Solvestack Slack](https://join.slack.com/t/solvestack/shared_invite/zt-9l9a253a-uCsIlUe8Gz4fllRGmEa~pw)
@@ -40,17 +42,48 @@ Github is the remote repository source control website that hosts the code. Deve
 
 ## Mac Users
 
+1. Install Git
+ 
 Open your Terminal Application and run the following command:
 
 ```bash
 sudo xcodebuild -license accept
 ```
 
-You're done. XCode comes on Mac, and it already includes Git.
+XCode comes on Mac preinstalled, and it already includes Git as a toolkit.
+
+2. Install Homebrew if you haven't yet:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+3. Install gh CLI.
+
+```bash
+brew install gh
+```
+
+4.  Open a new Terminal window, and run the following to log into Github locally from your terminal.
+
+```shell
+gh auth login
+```
+
+This will ask you a series of questions to answer by using the arrow keys and the return key.
+
+**What account do you want to log into?** Github.com
+
+**What is your preferred protocol for Git operations?** HTTPS
+
+**Authenticate Git with your Github Credentials?** Yes
+
+**How would you like to authenticate Github CLI?** Paste an authentication token
+
+**Paste your authentication token** _Proceed to copy the key using the copy icon from your developer settings area, then right-click the  powershell window to paste. It will show up as a bunch of asterisks:_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 ## Windows Users
-
-Oh boy. Get ready. You will install a lot of stuff. Fortunately you only have to do this once.
 
 1. [Install Git for Windows](https://git-scm.com/download/win). This includes Git Bash.
 2. Open Powershell, then run:
