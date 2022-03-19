@@ -1,6 +1,6 @@
 # first_time_local_development_setup
 
-This is a README to get started with our community, and most development projects using Github, Python3, JavaScript and/or Docker. It also includes our standard tools we use to test our code effectively. Your tools are what make you go 10 times as fast as a developer, so don't skip the tools section. You may understand your code and other people's code quicker.
+This is a README to get started with our community, and most development projects using Github, Python3, JavaScript and/or Docker. It also includes our standard tools we use to test our code effectively. Your tools are what make you go 10 times as fast as a developer, so don't skimp. You will understand your code and other people's code quicker.
 
 # Community
 
@@ -30,7 +30,7 @@ Github is the remote repository source control website that hosts the code. Deve
 
 # 0.1 - Github
 
-1. [Sign up for a Github account](https://github.com/signup] if you don't have one.
+1. [Sign up for a Github account](https://github.com/signup) if you don't have one.
 
 2. Send your Github Username to one of the Solvestack mentors so you can be added to the Solvestack Github organization.
 
