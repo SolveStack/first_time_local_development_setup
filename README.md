@@ -1,4 +1,4 @@
-# first_time_local_development_setup
+# First Time Local Development Setup
 
 This is a README to get started with our community, and most development projects using Github, Python3, JavaScript and/or Docker. It also includes our standard tools we use to test our code effectively. Your tools are what make you go 10 times as fast as a developer, so don't skimp. You will understand your code and other people's code quicker.
 
