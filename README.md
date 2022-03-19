@@ -6,7 +6,9 @@ Oh boy. Get ready. You will install a lot of stuff. Fortunately you only have to
 
 # Community
 
-[Sign up in the Solvestack Slack](https://join.slack.com/t/solvestack/shared_invite/zt-9l9a253a-uCsIlUe8Gz4fllRGmEa~pw)
+[Sign up for our Solvestack Slack](https://join.slack.com/t/solvestack/shared_invite/zt-9l9a253a-uCsIlUe8Gz4fllRGmEa~pw)
+
+👋 See you there! We'll guide you during the meetup or with literally ANY question you have about coding. We like to help each other get unstuck.
 
 # Dictionary
 
@@ -16,13 +18,17 @@ Terminal (uses a shell):
 * Plain English (PE): Text only application present on all computers that lets you type some commands to run other programs. Executes after hitting the enter key, and usually provides text output responses. Mac/Linux default application: Terminal, Windows default application: Powershell
 * Jargon you should eventually know (JUSEK): there is a difference between a shell and a terminal. Exit codes.
 
-Repository:
-* Plain English: a magical codebase folder that is like Google Drive / One Drive on steroids for developers, with a lot more granular of version control
-* Jargon you should eventually know (JUSEK): Distributed source control
-
 CLI:
 * Plain English: program you type in a terminal. It usually has required and/or optional arguments
 * JUSEK: Command Line Interface
+
+Code Repository ("Repo" for short):
+* Plain English: a magical codebase folder that is like Google Drive / One Drive on steroids for developers, with a lot more granular of version control
+* JUSEK: Distributed source control
+
+IDE:
+* Plain English: Fancy code editor (like a text editor). IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, provides sexy syntax highlighting and auto complete, compiling or building, and debugging.
+* JUSEK: Integrated Development Environment
 
 # 0 - Git and Github Intro
 
