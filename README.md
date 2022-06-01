@@ -95,21 +95,20 @@ This will ask you a series of questions to answer by using the arrow keys and th
 ## Windows Users
 
 1. [Install Git for Windows](https://git-scm.com/download/win). This includes Git Bash.
-<!--2. Open Powershell, then run:
+ <!--2. Open Powershell, then run:
 
-```shell
-winget install --id GitHub.cli
-```
-This will install gh CLI.
+ ```shell
+ winget install --id GitHub.cli
+ ```
+ This will install gh CLI.
 
-Press "y" key to accept the agreement.
+ Press "y" key to accept the agreement.
 
-3. Open a new Powershell window, and run the following to log into Github locally from your Powershell terminal.
+ 3. Open a new Powershell window, and run the following to log into Github locally from your Powershell terminal.
 
-```shell
-gh auth login~-->
-```
-
+ ```shell 
+ gh auth login
+ ```
 This will ask you a series of questions to answer by using the arrow keys and the return key.
 
 **What account do you want to log into?** Github.com
@@ -121,6 +120,7 @@ This will ask you a series of questions to answer by using the arrow keys and th
 **How would you like to authenticate Github CLI?** Paste an authentication token
 
 **Paste your authentication token** _Proceed to copy the key using the copy icon from your developer settings area, then right-click the  powershell window to paste. It will show up as a bunch of asterisks:_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+-->
 
 
 # 1.0 - Docker
