@@ -40,7 +40,7 @@ Github is the remote repository source control website that hosts the code. Deve
 
 1. [Sign up for a Github account](https://github.com/signup) if you don't have one.
 
-2. Send your Github Username to one of the Solvestack mentors so you can be added to the Solvestack Github organization.
+2. Send your Github Username and your email address you signed up for Github with to one of the Solvestack mentors so you can be added to the Solvestack Github organization.
 
 3. [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
