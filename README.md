@@ -95,7 +95,7 @@ This will ask you a series of questions to answer by using the arrow keys and th
 ## Windows Users
 
 1. [Install Git for Windows](https://git-scm.com/download/win). This includes Git Bash.
-2. Open Powershell, then run:
+<!--2. Open Powershell, then run:
 
 ```shell
 winget install --id GitHub.cli
@@ -107,7 +107,7 @@ Press "y" key to accept the agreement.
 3. Open a new Powershell window, and run the following to log into Github locally from your Powershell terminal.
 
 ```shell
-gh auth login
+gh auth login~-->
 ```
 
 This will ask you a series of questions to answer by using the arrow keys and the return key.
