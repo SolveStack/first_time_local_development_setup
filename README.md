@@ -44,6 +44,9 @@ Github is the remote repository source control website that hosts the code. Deve
 
 3. [Create a Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
+4. Accept your email invitation or notification to join the team `@py101-students`
+
+
 # 0.2 - Git
 
 ## Mac Users
